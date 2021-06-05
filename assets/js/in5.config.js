@@ -44,7 +44,7 @@ var lazyLoad = true;
 var scaleMode = 'best_all';
 var webAppType = '';
 var useTracker = false;
-var shareInfo = {btns:["twitter", "facebook", "linkedin"], align:"right"};
+var shareInfo = {btns:["facebook", "linkedin"], align:"right"};
 var maxScaleWidth, maxScaleHeight;
 var webAppEmailSubject = 'Check out this Web App for {deviceName}';
 var webAppEmailBody = 'Add this Web App to Your {deviceName} by visiting: ';
