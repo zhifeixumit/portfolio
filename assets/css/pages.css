@@ -544,10 +544,10 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-ms-transform:scale(1); -webkit-transform:scale(1); transform:scale(1);
 }
 .viewer-page-thumb > img { box-shadow:0 0 24px rgba(0,0,0,.5); }
-.viewer-page-thumb.active > img { outline:2px solid #b6b6b9; }
+.viewer-page-thumb.active > img { outline:2px solid #ff9900; }
 .dragging, .dragging * { cursor:move !important; }
 .dragging, .dragging * { cursor:move !important; }
-#viewer_progress_bar {width:0;left:0;height:6px;position:fixed;bottom:40px;background:#b6b6b9;}
+#viewer_progress_bar {width:0;left:0;height:6px;position:fixed;bottom:40px;background:#ff9900;}
 #viewer-options-wrap.no-options #viewer_progress_bar {bottom:0;}
 @media all and (-ms-high-contrast:none), (-ms-high-contrast:active) {
      .viewer-option-btn{height:40px} /*IE10/11 fix*/
