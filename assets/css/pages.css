@@ -422,7 +422,7 @@ body, #container-wrap { background:#ededed; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 .page-scale-wrap { width:612px; height:792px; background: #fff !important; }
 .paper-vertical { width:612px; height:100%; }
-.paper-horizontal { width:136218px; height:804px; }
+.paper-horizontal { width:134974px; height:804px; }
 nav#page-nav { display:none; }
 html.nav-transition nav#page-nav { opacity:.3; pointer-events:none; }
 nav#page-nav > button {
